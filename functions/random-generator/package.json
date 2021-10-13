@@ -1,0 +1,9 @@
+{
+  "name": "random_generator",
+  "version": "1.0.0",
+  "description": "Random int generator",
+  "main": "app.js",
+  "repository": "TODO",
+  "author": "SAM CLI",
+  "license": "MIT"
+}
